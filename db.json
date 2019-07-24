@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello Nigeria"
+    },
+    {
+      "id": 2,
+      "title": "hello Germany"
+    },
+    {
+      "id": 3,
+      "title": "hello New Zealand"
+    },
+    {
+      "id": 4,
+      "title": "hello Ghana"
+    },
+    {
+      "id": 5,
+      "title": "hello Spain"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
